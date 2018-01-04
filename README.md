@@ -9,6 +9,7 @@
 * docker-compose
 
 ### 服用须知
+* 编译项目前必须复制一份env-example为.env
 * 项目目录在damp目录同级
 * vhost配置在apache2/sites
 * php.ini在php-fpm目录，修改时请对应版本
