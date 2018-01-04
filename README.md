@@ -19,6 +19,8 @@
 ``` bash
 git clone git@lab.yaozh.com:yaozh/damp.git
 cd damp
+# set env
+cp env-example .env
 # build
 docker-compose up -d
 # rebuild
